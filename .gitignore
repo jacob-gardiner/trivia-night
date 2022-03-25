@@ -14,3 +14,9 @@ yarn-error.log
 /.vscode
 tink.php
 import.php
+
+public/css/app.css
+
+public/js/app.js
+
+public/mix-manifest.json
